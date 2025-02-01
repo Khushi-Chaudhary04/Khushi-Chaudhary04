@@ -26,10 +26,21 @@ I love building scalable applications, solving complex problems, and exploring c
 - **MetaTrace:** Web-based metadata forensics tool (FastAPI + ExifTool) 🛠️
 - **EcoVisit:** AI-powered AQI monitoring & prediction platform 🌱
 - **IntelliScript:** AI-driven video transcript summarizer 🎥
-
+  
 🔗 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/khushi-g-chaudhary-)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Khushi-Chaudhary04)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-purple?logo=vercel)](https://khushi-chaudhary.vercel.app)
+
+<a href="https://www.linkedin.com/in/khushi-g-chaudhary-" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
+</a>  
+<br>
+<a href="https://github.com/Khushi-Chaudhary04" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub">
+</a>  
+<br>
+<a href="https://khushi-chaudhary.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Website-purple?logo=vercel" alt="Portfolio">
+</a>
+
+<br>
 
 Let's build something amazing together! ✨
