@@ -112,6 +112,8 @@ Here are the key technologies I work with, instead of listing everything, this i
 
 ### 🏆 Honors & Key Achievements
 
+- **⭐ Women in Ethereum Protocol (WiEP) Contributor:** Actively contributing to the Ethereum open-source ecosystem, focusing on core protocol specs and client work..
+- **⭐ SheFi Scholar (S15):** Awarded full scholarship for Season 15, advancing expertise in Web3, decentralized finance, and innovation leadership.
 - **🥇 Google WE Scholar:** Selected as one of the top 200 from over 22,000 nationwide applicants for Google's prestigious Women Engineer program.
 - **🥇 Hackathon Winner & Team Lead:** Led a multidisciplinary team to first place by architecting and building a full-stack, AI-driven solution.
 - **🚀 ISRO Workshop Delegate:** Chosen to participate in the "Space and Entrepreneurship" workshop, engaging with senior scientists on technology and innovation.
